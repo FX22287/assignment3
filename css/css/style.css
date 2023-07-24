@@ -1,0 +1,51 @@
+.bigpoint {
+  display: flex;
+  gap: 21px;
+}
+#bigpoint11 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+.bigbutsmall11111 {
+  display: flex;
+}
+#bigpoint1 {
+  background-color: blue;
+  padding: 10px;
+}
+#bigpoint111 {
+  background-color: #74c0fc;
+}
+#bigpoint1111 {
+  background: #74c0fc;
+}
+#bigpoint1111111 {
+  background-color: #74c0fc;
+}
+#bigpoint11111 {
+  background-color: #74c0fc;
+}
+#bigpoint111111 {
+  background-color: #74c0fc;
+}
+.utilize {
+  display: flex;
+  gap: 10px;
+}
+.ifif {
+  display: grid;
+  grid-template-columns: 30% 70%;
+  grid-template-rows: 1fr 1fr;
+}
+.hm {
+  background-color: blueviolet;
+  height: 72px;
+  width: 72px;
+  border-radius: 50%;
+  text-align: center;
+}
+.fa-solid {
+  position: relative;
+  top: calc(50% - 12px);
+}

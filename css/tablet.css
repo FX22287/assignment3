@@ -1,0 +1,300 @@
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+  #pseudo-nav-texts {
+    display: none;
+  }
+  .bg-grey .container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+  }
+  .bg-grey {
+    background-color: #d0d0d0;
+  }
+  #section-grid-layout-1 {
+    grid-template-columns: 1fr 1fr;
+  }
+  #adjust-property-by-the-size-device-1 {
+    width: 100%;
+    display: grid;
+  }
+  #adjust-property-by-the-size-device-2 {
+    display: block;
+    position: relative;
+  }
+  #adjust-property-by-the-size-device-3 {
+    display: inline-block;
+    position: absolute;
+    top: 188px;
+    left: 0px;
+  }
+  #adjust-property-by-the-size-device-4 {
+    display: block;
+    /* position: relative; */
+  }
+  /* #adjust-property-by-the-size-device-5 {
+    display: inline-block;
+    position: absolute;
+    top: 347px;
+    left: 0px;
+  } */
+  #adjust-property-by-the-size-device-6 {
+    display: block;
+    position: relative;
+  }
+  #adjust-property-by-the-size-device-7 {
+    display: inline-block;
+    position: absolute;
+    top: 188px;
+    left: 0px;
+  }
+  #adjust-property-by-the-size-device-8 {
+    display: block;
+    position: relative;
+  }
+  #adjust-property-by-the-size-device-9 {
+    display: inline-block;
+    position: absolute;
+    top: 188px;
+    left: 0px;
+  }
+  #adjust-property-by-the-size-device-10 {
+    display: block;
+    position: relative;
+  }
+  #adjust-property-by-the-size-device-11 {
+    display: inline-block;
+    position: absolute;
+    top: 370px;
+    left: 0px;
+  }
+  #adjust-property-by-the-size-device-12 {
+    display: block;
+    position: relative;
+  }
+  #adjust-property-by-the-size-device-13 {
+    display: inline-block;
+    position: absolute;
+    top: 341px;
+    left: 0px;
+  }
+  #adjust-property-by-the-size-device-14 {
+    display: block;
+    position: relative;
+  }
+  #adjust-property-by-the-size-device-15 {
+    display: inline-block;
+    position: absolute;
+    top: 391px;
+    left: 0px;
+  }
+  #adjust-property-by-the-size-device-16 {
+    display: block;
+    position: relative;
+  }
+  #adjust-property-by-the-size-device-17 {
+    display: inline-block;
+    position: absolute;
+    top: 370px;
+    left: 0px;
+  }
+  #adjust-property-by-the-size-device-18 {
+    display: flex;
+    gap: 12px;
+  }
+  #adjust-property-by-the-size-device-19 {
+    display: grid;
+    grid-template-columns: 25% 75%;
+    grid-template-rows: 25% 75%;
+    justify-items: start;
+    row-gap: 10px;
+  }
+  #adjust-property-by-the-size-device-20 {
+    margin: 0px;
+    padding: 0px;
+  }
+  #adjust-property-by-the-size-device-21 {
+    margin: 0px;
+    padding: 0px;
+    grid-area: 2 / 2 / 3 / 3;
+    /* text-transform: uppercase; */
+  }
+  /*  */
+  #adjust-property-by-the-size-device-22 {
+    display: grid;
+    grid-template-columns: 25% 75%;
+    grid-template-rows: 25% 75%;
+    justify-items: start;
+    row-gap: 10px;
+  }
+  #adjust-property-by-the-size-device-23 {
+    margin: 0px;
+    padding: 0px;
+    text-transform: uppercase;
+  }
+  #adjust-property-by-the-size-device-24 {
+    margin: 0px;
+    padding: 0px;
+    grid-area: 2 / 2 / 3 / 3;
+    text-transform: uppercase;
+  }
+  /*  */
+  #adjust-property-by-the-size-device-25 {
+    display: grid;
+    grid-template-columns: 25% 75%;
+    grid-template-rows: 25% 75%;
+    justify-items: start;
+    row-gap: 10px;
+  }
+  #adjust-property-by-the-size-device-26 {
+    margin: 0px;
+    padding: 0px;
+    text-transform: uppercase;
+  }
+  #adjust-property-by-the-size-device-27 {
+    margin: 0px;
+    padding: 0px;
+    grid-area: 2 / 2 / 3 / 3;
+    text-transform: uppercase;
+  }
+  #adjust-property-by-the-size-device-28 {
+    display: flex;
+    justify-content: center;
+    gap: 21px;
+  }
+  #hhhh1 {
+    position: relative;
+  }
+  #hhhh1::before {
+    content: "";
+    position: absolute;
+    width: 21px;
+    height: 21px;
+    /* right: -17px; */
+    background-color: #74c0fc;
+    /* border: 3px solid #ff9f55; */
+    top: 7px;
+    border-radius: 50%;
+    z-index: 1;
+    left: -31px;
+  }
+  #hui1 {
+    position: relative;
+  }
+  #hui1::before {
+    content: "";
+    position: absolute;
+    width: 21px;
+    height: 21px;
+    /* right: -17px; */
+    background-color: #74c0fc;
+    /* border: 3px solid #ff9f55; */
+    top: 10px;
+    border-radius: 50%;
+    z-index: 1;
+    left: -31px;
+  }
+  #newone-2 {
+    position: relative;
+  }
+  #newone-2::before {
+    content: "";
+    position: absolute;
+    width: 21px;
+    height: 21px;
+    /* right: -17px; */
+    background-color: #74c0fc;
+    /* border: 3px solid #ff9f55; */
+    top: 0px;
+    border-radius: 50%;
+    z-index: 1;
+    left: -31px;
+  }
+  #newone-1 {
+    position: relative;
+  }
+  #newone-1::before {
+    content: "";
+    position: absolute;
+    width: 21px;
+    height: 21px;
+    /* right: -17px; */
+    background-color: #74c0fc;
+    /* border: 3px solid #ff9f55; */
+    top: 0px;
+    border-radius: 50%;
+    z-index: 1;
+    left: -31px;
+  }
+  #hubb {
+    position: relative;
+  }
+  #hubb::before {
+    content: "";
+    position: absolute;
+    width: 21px;
+    height: 21px;
+    /* right: -17px; */
+    background-color: #74c0fc;
+    /* border: 3px solid #ff9f55; */
+    top: 0px;
+    border-radius: 50%;
+    z-index: 1;
+    left: -31px;
+  }
+
+  #newone-3 {
+    position: relative;
+  }
+  #newone-3::before {
+    content: "";
+    position: absolute;
+    width: 21px;
+    height: 21px;
+    /* right: -17px; */
+    background-color: #74c0fc;
+    /* border: 3px solid #ff9f55; */
+    top: 5px;
+    border-radius: 50%;
+    z-index: 1;
+    left: -31px;
+  }
+  #newone-4 {
+    position: relative;
+  }
+  #newone-4::after {
+    content: "";
+    position: absolute;
+    width: 21px;
+    height: 21px;
+    /* right: -17px; */
+    background-color: #74c0fc;
+    /* border: 3px solid #ff9f55; */
+    top: 5px;
+    border-radius: 50%;
+    z-index: 1;
+    left: -31px;
+  }
+  #annm {
+    padding-top: 30px;
+  }
+  .mt-40 {
+    padding-left: 0px;
+  }
+  #hbc {
+    padding-left: 0px;
+  }
+  .ic-toolbox {
+    font-size: 25px;
+  }
+  .ic-pencil {
+    font-size: 25px;
+  }
+  .ic-telescope {
+    font-size: 25px;
+  }
+  .ic-mic {
+    font-size: 25px;
+  }
+  .ic-tools-2 {
+    font-size: 25px;
+  }
+}

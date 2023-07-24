@@ -1,0 +1,69 @@
+@media only screen and (max-width: 480px) {
+  .bigpoint {
+    display: block;
+  }
+  .bigpoint111111 {
+    margin-top: 10px;
+  }
+  #bigpoint11 {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+  }
+  .bigpoint111 {
+    grid-row: 3 / 4;
+  }
+  .bigbutsmall11111 {
+    display: block;
+  }
+  .utilize {
+    display: block;
+  }
+  .icon-user,
+  .icon-doc-text-inv,
+  .icon-mail-alt,
+  .icon-star-1,
+  .icon-twitter,
+  .icon-facebook,
+  .icon-gplus {
+    margin: 347px;
+  }
+  .ifif {
+    display: block;
+  }
+  .ic-mic::before {
+    margin: 347px;
+  }
+  .ic-telescope::before {
+    margin: 347px;
+  }
+  #bigpoint111 {
+    background-color: #74c0fc;
+  }
+  #bigpoint1111 {
+    background: #74c0fc;
+  }
+  #bigpoint1111111 {
+    background-color: #74c0fc;
+  }
+  #bigpoint11111 {
+    background-color: #74c0fc;
+  }
+  #bigpoint111111 {
+    background-color: #74c0fc;
+  }
+  .hm {
+    background-color: blueviolet;
+    height: 72px;
+    width: 72px;
+    border-radius: 50%;
+    text-align: center;
+  }
+  .fa-solid {
+    position: relative;
+    top: calc(50% - 12px);
+  }
+  .ht {
+    text-align: center;
+  }
+}
