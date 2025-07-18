@@ -1,4 +1,4 @@
-# my-first-repo minor update!
+# my-first-repo minor update! Updated by Vim and Diff commands
 ```
 Assignment 02 Stater
 ├─ css
